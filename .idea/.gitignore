@@ -1,0 +1,16 @@
+# Ignore Java build files
+*.class
+
+# Ignore IntelliJ project files
+*.iml
+.idea/
+out/
+
+# Ignore logs and OS junk
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore any personal test files
+/shelf/
+/workspace.xml
